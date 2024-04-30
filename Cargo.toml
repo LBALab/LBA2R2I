@@ -1,0 +1,11 @@
+[package]
+name = "lba2r2i"
+version = "1.0.0"
+authors = ["Melechtna Antelecht <Melechtna@gmail.com>"]
+
+[dependencies]
+image = "0.25.1"
+
+[[bin]]
+name = "lba2r2i"
+path = "src/main.rs"
